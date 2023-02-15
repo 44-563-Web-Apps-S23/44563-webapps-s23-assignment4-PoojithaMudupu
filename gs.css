@@ -1,0 +1,23 @@
+.speech{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+color:black;
+    
+}
+.dir{
+    font-style:serif;
+    font-size: 16px;
+    color:black;
+}
+.dir:hover{
+    color:red;
+    background-color: aqua;
+}
+.zama{
+    font-style:italic;
+    color:blue;
+}
+.ohano{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:pink
+}
