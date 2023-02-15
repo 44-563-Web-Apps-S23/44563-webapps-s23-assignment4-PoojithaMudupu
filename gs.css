@@ -21,3 +21,22 @@ color:black;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 color:pink
 }
+.tb,th,td{
+    border:3px solid;
+    color:black;
+    text-align:center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 40px;
+}
+th{
+    color:crimson;
+}
+th, td {
+    padding: 10px;
+    
+  }
+  tr:nth-child(even) {
+    background-color:#D8BFD8;
+}
