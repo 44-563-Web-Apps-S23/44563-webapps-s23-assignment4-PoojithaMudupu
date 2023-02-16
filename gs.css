@@ -1,8 +1,7 @@
 .speech{
     font-family:'Courier New', Courier, monospace;
     font-size: 14px;
-color:black;
-    
+color:black;  
 }
 .dir{
     font-family:monospace;
@@ -24,6 +23,17 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 color:pink;
 font-size:medium;
 }
+.name.zama:hover{
+  color:firebrick;
+  text-shadow: 3px 3px 4px blue;
+  border : 2px dashed orange;
+}
+.name.ohano:hover{
+  color:lightseagreen;
+ 
+  text-shadow: 3px 3px 6px darkred;
+  border : 2px dashed blue;
+}
 .tb,th,td{
     border:3px solid;
     color:black;
@@ -43,18 +53,7 @@ th, td {
   tr:nth-child(even) {
     background-color:#D8BFD8;
 }
-.name.zama:hover{
-    color:firebrick;
-    
-    text-shadow: 3px 3px 4px blue;
-    border : 2px dashed orange;
-}
-.name.ohano:hover{
-    color:lightseagreen;
-   
-    text-shadow: 3px 3px 6px darkred;
-    border : 2px dashed blue;
-}
+
 .navbar-horizontal {
     list-style-type: none;
     margin: 0;
